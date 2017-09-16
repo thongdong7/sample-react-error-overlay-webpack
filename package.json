@@ -1,0 +1,15 @@
+{
+  "name": "react-error-overlay-webpack",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "react-dev-utils": "^4.0.1",
+    "react-error-overlay": "^2.0.1",
+    "webpack": "^3.6.0",
+    "webpack-dev-server": "^2.8.2"
+  },
+  "scripts": {
+    "build": "webpack"
+  }
+}

@@ -1,0 +1,1 @@
+Sample setup `react-error-overlay` for webpack dev server
