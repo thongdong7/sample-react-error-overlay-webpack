@@ -11,6 +11,6 @@
   },
   "scripts": {
     "build": "webpack",
-    "start": "webpack-dev-server"
+    "start": "webpack-dev-server --port 9000"
   }
 }
